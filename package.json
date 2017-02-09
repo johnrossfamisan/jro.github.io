@@ -1,0 +1,26 @@
+{
+  "name": "npmpackage",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnrossfamisan/jro.github.io.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnrossfamisan/jro.github.io/issues"
+  },
+  "homepage": "https://github.com/johnrossfamisan/jro.github.io#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
